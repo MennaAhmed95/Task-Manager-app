@@ -2,6 +2,10 @@
 
 A modern React application built with the latest technologies for efficient task management with powerful features and analytics.
 
+## 🔗 Live Demo
+
+**Deployed Application**: [https://ttask-manager-app.netlify.app](https://ttask-manager-app.netlify.app)
+
 ## 📸 App Preview
 
 ### 🗂️ Task Management Interface
